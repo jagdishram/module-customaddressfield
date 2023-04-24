@@ -29,7 +29,7 @@ Custom Address Field
     - public repository `packagist.org`
     - public github repository as vcs
  - Add the composer repository to the configuration by running `composer config repositories.repo.magento.com composer https://repo.magento.com/`
- - Install the module composer by running `composer require jag/module-customaddressfield`
+ - Install the module composer by running `composer require jagdishram/module-customaddressfield`
  - enable the module by running `php bin/magento module:enable Jag_CustomAddressField`
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
