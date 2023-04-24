@@ -1,5 +1,5 @@
 {
-    "name": "jag/module-customaddressfield",
+    "name": "jagdishram/module-customaddressfield",
     "description": "Custom Address Field",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -9,7 +9,7 @@
       },
     "authors": [
         {
-            "name": "Jag",
+            "name": "Jagdish ram",
             "email": "jagdish.ram@ibm.com"
         }
     ],
