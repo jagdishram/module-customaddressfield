@@ -1,0 +1,25 @@
+{
+    "name": "jag/module-customaddressfield",
+    "description": "Custom Address Field",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "require": {
+        "php": "~8.1.0"
+      },
+    "authors": [
+        {
+            "name": "Jag",
+            "email": "jagdish.ram@ibm.com"
+        }
+    ],
+    "minimum-stability": "dev",    
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Jag\\CustomAddressField\\": ""
+        }
+    }
+}
